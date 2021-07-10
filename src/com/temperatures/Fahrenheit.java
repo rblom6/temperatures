@@ -6,7 +6,7 @@ public class Fahrenheit{
 		double c;
 		c = (f-32)/1.8;
 	
-		// round the value
+		//round the value
 		//c = Math.round(c*100)/100;
 				
 		return c;
