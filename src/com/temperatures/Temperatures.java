@@ -1,6 +1,6 @@
-/* This program 
- * 
- * 
+/* Given a value in Celsius, this program returns the
+ * value in Fahrenheit.  Given a value in Fahrenheit,
+ * This program returns the value in Celsius.
  */
 
 package com.temperatures;
